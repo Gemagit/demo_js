@@ -150,7 +150,9 @@ while(true){
 }
 */
 
-
+//git add .
+//git commit -m "primera subida"
+//git push
 
 //new Date().getDay() para hacer un switch con los dias de lala semana
 //si tento que ver si un condicional es true o false uso while
